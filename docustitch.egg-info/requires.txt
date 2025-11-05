@@ -1,0 +1,11 @@
+pandas
+pyarrow
+networkx
+numpy
+scikit-learn
+typer
+pydantic>=2
+mlflow
+fastapi
+uvicorn
+requests

@@ -1,0 +1,3 @@
+runtime:
+  device: auto
+  local_only: true
