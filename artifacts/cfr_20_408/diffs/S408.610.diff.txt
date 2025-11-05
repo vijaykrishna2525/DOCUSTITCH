@@ -1,0 +1,5 @@
+--- XML §408.610
++++ PDF §408.610
+@@ -1 +1 @@
+-In determining when we will pay your benefits to a representative payee, we follow the rules in § 404.2010(a) of this chapter.
++representative to a payments payee? In determining when we will pay your benefits to a representative payee, we in the

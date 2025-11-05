@@ -1,0 +1,5 @@
+--- XML §115.95
++++ PDF §115.95
+@@ -1 +1 @@
+-The regulations in this subpart A establish minimum requirements for agencies and facilities. Agency and facility policies may include additional requirements.
++The regulations in this subpart A establish minimum requirements for agencies and facilities. Agency and facility policies may include additional requirements. Subpart B—Standards for DHS Holding Facilities COVERAGE

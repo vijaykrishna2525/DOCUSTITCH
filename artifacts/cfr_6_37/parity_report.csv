@@ -1,0 +1,31 @@
+sec_id,xml_len,pdf_len,len_ratio,xml_tokens,pdf_tokens,jaccard_unigram,rf_similarity,xml_heading,pdf_heading
+§37.1,479,479,1.0,81,81,1.0,99.6,Applicability.,Applicability.
+§37.10,7045,46098,6.543,1068,7112,0.313,14.8,Application criteria for issuance of temporary waiver for mDLs; audit report; waiver application guidance.,Application
+§37.11,6566,2441,0.372,1106,413,0.567,34.8,Application and documents the applicant must provide.,Application and documents the
+§37.13,2911,2910,1.0,488,487,0.995,96.9,Document verification requirements.,Document verification requirements.
+§37.15,2430,2514,1.035,373,390,0.956,93.1,Physical security features for the driver's license or identification card.,Physical security features for
+§37.17,3464,3632,1.048,581,611,0.936,95.2,Requirements for the surface of the driver's license or identification card.,Requirements for the surface of
+§37.19,848,966,1.139,147,170,0.848,83.3,Machine readable technology on the driver's license or identification card.,Machine readable technology
+§37.21,1682,1781,1.059,282,301,0.923,93.9,Temporary or limited-term driver's licenses and identification cards.,Temporary
+§37.23,1239,1239,1.0,201,201,1.0,99.3,Reissued REAL ID driver's licenses and identification cards.,Reissued REAL ID driver’s licenses and identification cards.
+§37.25,1678,1724,1.027,280,286,0.94,95.1,Renewal of REAL ID driver's licenses and identification cards.,Renewal of REAL ID driver’s licenses and identification cards.
+§37.27,285,355,1.246,45,60,0.75,80.0,Driver's licenses and identification cards issued during the age-based enrollment period.,Driver’s licenses and identification cards issued during the agebased enrollment period.
+§37.29,1408,1499,1.065,244,261,0.934,93.5,Prohibition against holding more than one REAL ID card or more than one driver's license.,Prohibition against holding
+§37.3,17755,18071,1.018,2720,2786,0.962,97.5,Definitions.,Definitions.
+§37.31,1908,417,0.219,314,73,0.166,16.2,Source document retention.,", and maintain a record of both"
+§37.33,750,299,0.399,124,51,0.506,39.7,DMV databases.,DMV databases.
+§37.4,7845,1336,0.17,1082,195,0.287,16.4,Incorporation by reference.,Incorporation by reference.
+§37.41,4013,188,0.047,595,33,0.098,4.7,Security plan.,Security plan.
+§37.43,371,371,1.0,58,58,1.0,99.5,Physical security of DMV production facilities.,Physical security of DMV production facilities.
+§37.45,4678,4786,1.023,738,756,0.969,96.2,Background checks for covered employees.,Background checks for covered
+§37.5,929,1164,1.253,162,210,0.695,75.8,Validity periods and deadlines for REAL ID driver's licenses and identification cards.,Validity periods and deadlines
+§37.51,1002,1106,1.104,174,193,0.911,90.5,Compliance—general requirements.,Compliance—general
+§37.55,1249,3868,3.097,207,568,0.168,21.4,State certification documentation.,.
+§37.59,2367,2367,1.0,379,379,1.0,97.6,DHS reviews of State compliance.,DHS reviews of State compliance.
+§37.61,449,449,1.0,82,82,1.0,100.0,Results of compliance determination.,Results of compliance determination.
+§37.63,965,1075,1.114,161,186,0.817,89.7,Extension of deadline.,Extension of deadline.
+§37.65,902,1017,1.127,154,175,0.892,88.4,Effect of failure to comply with this part.,Effect of failure to comply with
+§37.7,625,673,1.077,107,115,0.912,91.5,Temporary waiver for mDLs; State eligibility.,Temporary waiver for mDLs;
+§37.71,692,1626,2.35,112,248,0.471,40.8,Driver's licenses and identification cards issued under section 202(d)(11) of the REAL ID Act.,Driver’s licenses and identification cards issued under section
+§37.8,1257,65,0.052,226,8,0.023,5.0,Requirements for Federal agencies accepting mDLs issued by States with temporary waiver.,Requirements for Federal agenissued by
+§37.9,7476,7627,1.02,1247,1276,0.955,97.6,Applications for temporary waiver for mDLs.,Applications

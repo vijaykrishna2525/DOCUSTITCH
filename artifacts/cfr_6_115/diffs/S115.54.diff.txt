@@ -1,0 +1,5 @@
+--- XML §115.54
++++ PDF §115.54
+@@ -1 +1 @@
+-Each facility shall establish a method to receive third-party reports of sexual abuse in its immigration detention facilities and shall make available to the public information on how to report sexual abuse on behalf of a detainee.
++Each facility shall establish a method to receive third-party reports of sexual abuse in its immigration detention facilities and shall make available to 335 115.61 6 CFR Ch. I (1–1–25 Edition) the public information on how to report sexual abuse on behalf of a detainee. OFFICIAL RESPONSE FOLLOWING A DETAINEE REPORT

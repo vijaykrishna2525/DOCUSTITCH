@@ -1,0 +1,5 @@
+--- XML §115.166
++++ PDF §115.166
+@@ -1 +1 @@
+-Agency management shall consider whether any staff, contractor, or volunteer alleged to have perpetrated sexual abuse should be removed from duties requiring detainee contact pending the outcome of an investigation, and shall do so if the seriousness and plausibility of the allegation make removal appropriate.
++contact with alleged abusers. Agency management shall consider whether any staff, contractor, or volunteer alleged to have perpetrated sexual abuse should be removed from duties requiring detainee contact pending the outcome of an investigation, and 348 Office of the Secretary, Homeland Security 115.176 shall do so if the seriousness and plausibility of the allegation make removal appropriate.

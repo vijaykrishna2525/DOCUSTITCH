@@ -1,0 +1,152 @@
+sec_id,xml_len,pdf_len,len_ratio,xml_tokens,pdf_tokens,jaccard_unigram,rf_similarity,xml_heading,pdf_heading
+§408.1000,2884,714,0.248,467,111,0.391,24.8,What is this subpart about?,What is this subpart about?
+§408.1001,1082,1151,1.064,181,196,0.893,93.8,Definitions.,Definitions.
+§408.1002,285,355,1.246,42,57,0.667,80.3,What is an initial determination?,What is an initial determination?
+§408.1003,921,2159,2.344,149,351,0.124,25.2,Which administrative actions are initial determinations?,", that gives you a right to further review."
+§408.1004,1333,1318,0.989,224,220,0.992,98.9,Which administrative actions are not initial determinations?,Which administrative actions are not initial determinations?
+§408.1005,763,697,0.913,131,116,0.938,84.3,Will we mail you a notice of the initial determination?,Will we mail you a notice of
+§408.1006,143,159,1.112,21,22,1.0,89.9,What is the effect of an initial determination?,What is the effect of an initial determination?
+§408.1007,268,268,1.0,39,39,1.0,100.0,What is reconsideration?,What is reconsideration?
+§408.1009,1292,1336,1.034,229,234,0.958,96.7,How do you request reconsideration?,How do you request reconsideration?
+§408.101,1737,1879,1.082,266,294,0.832,92.4,What is this part about?,What is this part about?
+§408.1011,2076,2147,1.034,343,355,0.989,95.5,How do we determine whether you had good cause for missing the deadline to request review?,How do we determine
+§408.1013,1366,1428,1.045,217,228,0.898,95.7,What are the methods for reconsideration?,What are the methods for
+§408.1014,168,253,1.506,29,41,0.893,66.4,What procedures apply if you request reconsideration of an initial determination on your application for SVB?,What procedures apply if
+§408.1015,430,553,1.286,80,97,0.894,77.8,"What procedures apply if you request reconsideration of an initial determination that results in suspension, reduction, or termination of your SVB?",What procedures apply if
+§408.1016,1232,1246,1.011,219,221,1.0,98.9,What happens if you request a conference?,What happens if you request
+§408.1020,354,424,1.198,54,69,0.725,83.5,How do we make our reconsidered determination?,How do we make our reconsidered determination?
+§408.1021,257,283,1.101,40,43,0.968,90.8,How does the reconsidered determination affect you?,How does the reconsidered
+§408.1022,285,343,1.204,51,57,0.947,83.1,How will we notify you of our reconsidered determination?,How will we notify you of
+§408.1030,594,689,1.16,105,116,0.872,77.4,When can you use the expedited appeals process?,When can you use the expedited appeals process?
+§408.1040,500,601,1.202,92,104,0.967,78.7,When can you request a hearing before an administrative law judge (ALJ)?,When can you request a
+§408.1045,494,550,1.113,91,99,0.912,88.9,What procedures apply if you request an ALJ hearing?,What procedures apply if
+§408.105,281,297,1.057,47,50,0.971,94.6,Purpose and administration of the program.,Purpose and administration
+§408.1050,619,698,1.128,117,128,0.893,87.4,When can you request Appeals Council review of an ALJ hearing decision or dismissal of a hearing request?,When can you request Appeals Council review of an ALJ
+§408.1060,151,248,1.642,30,43,0.714,60.5,What happens if a Federal Court remands your case to the Commissioner?,What happens if a Federal
+§408.1070,888,752,0.847,160,132,0.759,77.0,When will we reopen a final determination?,When will we reopen a final
+§408.110,2442,2520,1.032,411,428,0.948,96.7,General definitions and use of terms.,General definitions and use
+§408.1101,1314,1568,1.193,242,282,0.812,82.3,Can you appoint someone to represent you?,Can you appoint someone to
+§408.120,453,773,1.706,83,138,0.588,58.6,Periods of limitations ending on Federal nonworkdays.,Periods of limitations ending
+§408.1201,569,579,1.018,97,98,1.0,98.3,What are State recognition payments?,What are State recognition
+§408.1205,430,2413,5.612,68,414,0.094,13.5,How can a State have SSA administer its State recognition payment program?,. Audit findings will be resolved in accordance with the provisions of the State’s agreement with
+§408.1210,3059,3102,1.014,515,520,0.981,98.5,What are the essential elements of an administration agreement?,What are the essential elements of an administration agreement?
+§408.1215,886,914,1.032,138,141,1.0,96.9,How do you establish eligibility for Federally administered State recognition payments?,How do you establish eligibility for Federally administered
+§408.1220,607,693,1.142,103,117,0.87,87.6,How do we pay Federally administered State recognition payments?,How do we pay Federally
+§408.1225,634,650,1.025,96,98,1.0,97.5,What happens if you receive an overpayment?,What happens if you receive
+§408.1226,165,165,1.0,28,28,1.0,100.0,What happens if you are underpaid?,What happens if you are underpaid?
+§408.1230,864,864,1.0,153,153,1.0,100.0,Can you waive State recognition payments?,Can you waive State recognition payments?
+§408.1235,2787,2777,0.996,479,475,0.929,92.0,How does the State transfer funds to SSA to administer its recognition payment program?,How does the State transfer
+§408.201,809,114,0.141,141,22,0.262,14.1,What is this subpart about?,What is this subpart about?
+§408.202,722,1801,2.494,140,321,0.128,23.5,How do you qualify for SVB?,", you will not be qualified for"
+§408.204,1871,654,0.35,331,112,0.232,24.5,What conditions will prevent you from qualifying for SVB or being entitled to receive SVB payments?,"exist. However, you cannot be"
+§408.206,1160,326,0.281,210,61,0.439,25.5,What happens when you apply for SVB?,What happens when you
+§408.208,482,515,1.068,85,90,1.0,93.6,What happens if you establish residence outside the United States within 4 calendar months?,What happens if you establish residence outside the United
+§408.210,439,511,1.164,75,85,1.0,85.9,What happens if you do not establish residence outside the United States within 4 calendar months?,What happens if you do not
+§408.212,639,708,1.108,112,121,0.941,90.3,What happens if you are a qualified individual already residing outside the United States?,What happens if you are a
+§408.214,238,255,1.071,48,50,0.946,93.3,Are you age 65?,Are you age 65?
+§408.216,1148,1207,1.051,193,200,0.938,95.1,Are you a World War II veteran?,Are you a World War II veteran?
+§408.218,586,607,1.036,110,113,0.968,96.5,Do you meet the SSI eligibility requirements?,Do you meet the SSI eligibility requirements?
+§408.220,2060,1911,0.928,344,317,0.924,92.6,Do you have other benefit income?,Do you have other benefit income?
+§408.222,680,259,0.381,128,49,0.424,23.8,How does your other benefit income affect your SVB?,How does your other benefit
+§408.224,1208,1206,0.998,215,212,0.93,92.3,How do we determine the monthly amount of your other benefit income?,How do we determine the
+§408.226,383,484,1.264,71,86,0.925,79.1,What happens if you begin receiving other benefit income after you become entitled to SVB?,What happens if you begin
+§408.228,1266,1340,1.058,228,238,0.958,94.5,When do we consider you to be residing outside the United States?,When do we consider you to
+§408.230,1207,1207,1.0,221,221,1.0,100.0,When must you begin residing outside the United States?,When must you begin residing outside the United States?
+§408.232,1189,1197,1.007,210,211,0.991,99.2,When do you lose your foreign resident status?,When do you lose your foreign resident status?
+§408.234,1483,1823,1.229,262,326,0.759,81.2,Can you continue to receive SVB payments if you stay in the United States for more than 1 full calendar month?,Can you continue to receive
+§408.301,360,360,1.0,64,64,1.0,100.0,What is this subpart about?,What is this subpart about?
+§408.305,443,476,1.074,78,82,0.981,93.1,Why do you need to file an application to receive benefits?,Why do you need to file an
+§408.310,454,469,1.033,87,90,1.0,96.4,What makes an application a claim for SVB?,What makes an application a
+§408.315,1217,1226,1.007,223,224,0.991,99.2,Who may sign your application?,Who may sign your application?
+§408.320,910,1005,1.104,164,177,0.911,90.2,What evidence shows that a person has authority to sign an application for you?,What evidence shows that a
+§408.325,1160,1198,1.033,214,219,0.99,94.3,When is your application considered filed?,When
+§408.330,280,335,1.196,49,58,0.8,83.6,How long will your application remain in effect?,How long will your application remain in effect?
+§408.340,1501,863,0.575,277,157,0.63,51.6,When will we use a written statement as your filing date?,When will we use a written
+§408.345,1020,1156,1.133,192,216,0.869,88.2,When will we use the date of an oral inquiry as your application filing date?,When will we use the date of
+§408.351,7674,6742,0.879,1261,1104,0.915,85.6,What happens if we give you misinformation about filing an application?,What happens if we give you
+§408.355,874,500,0.572,152,90,0.382,43.1,Can you withdraw your application?,Can you withdraw your application?
+§408.360,525,1369,2.608,92,240,0.445,38.3,Can you cancel your request to withdraw your application?,Can you cancel your request
+§408.401,400,438,1.095,68,77,0.891,91.3,What is this subpart about?,What is this subpart about?
+§408.402,803,539,0.671,143,90,0.152,27.8,When do you need to give us evidence?,When do you need to give us
+§408.403,359,417,1.162,58,65,0.935,86.1,Where should you give us your evidence?,Where should you give us
+§408.404,1218,1251,1.027,226,233,1.0,97.4,What happens if you fail to give us the evidence we ask for?,What happens if you fail to
+§408.405,1294,1325,1.024,212,217,1.0,97.6,When do we require original records or copies as evidence?,When do we require original
+§408.406,1023,1071,1.047,179,190,0.892,95.5,How do we evaluate the evidence you give us?,How do we evaluate the evidence you give us?
+§408.410,755,777,1.029,145,149,1.0,97.0,When do you need to give us evidence of your age?,When do you need to give us
+§408.412,105,133,1.267,22,29,0.95,78.9,What kinds of evidence of age do you need to give us?,What kinds of evidence of
+§408.413,93,110,1.183,19,21,0.889,84.5,How do we evaluate the evidence of age you give us?,How do we evaluate the evidence of age you give us?
+§408.420,1189,198,0.167,213,42,0.266,13.3,What evidence of World War II military service do you need to give us?,What evidence of World War
+§408.425,337,358,1.062,64,67,0.936,93.9,How do we establish your eligibility for SSI?,How do we establish your eligibility for SSI?
+§408.430,250,289,1.156,46,52,1.0,86.5,When do you need to give us evidence of your other benefit income?,When do you need to give us
+§408.432,317,420,1.325,53,69,0.76,75.5,What kind of evidence of your other benefit income do you need to give us?,What kind of evidence of
+§408.435,1460,1500,1.027,263,269,1.0,97.3,How do you prove that you are residing outside the United States?,How do you prove that you
+§408.437,2355,2685,1.14,425,489,0.806,87.6,How do you prove that you had good cause for staying in the United States for more than 1 full calendar month?,How do you prove that you
+§408.501,211,211,1.0,36,36,1.0,100.0,What is this subpart about?,What is this subpart about?
+§408.505,631,658,1.043,118,122,0.984,95.6,How do we determine the amount of your SVB payment?,How do we determine the
+§408.510,561,599,1.068,103,108,0.964,93.3,How do we reduce your SVB when you receive other benefit income?,How do we reduce your SVB
+§408.515,290,517,1.783,54,98,0.5,56.1,When do we make SVB payments?,When do we make SVB payments?
+§408.601,1228,1271,1.035,199,204,0.948,96.6,What is this subpart about?,What is this subpart about?
+§408.610,126,118,0.937,23,20,0.619,36.5,When will we send your SVB payments to a representative payee?,When will we send your SVB
+§408.611,184,223,1.212,32,37,1.0,82.5,What happens to your monthly benefits while we are finding a suitable representative payee for you?,What happens to your monthly benefits while we are finding a
+§408.615,139,161,1.158,22,25,0.727,51.6,What information do we consider in determining whether we will pay your benefits to a representative payee?,What information do we consider in determining whether we
+§408.618,394,422,1.071,57,63,0.846,93.4,Advance designation of representative payees.,Advance designation of representative payees.
+§408.620,114,114,1.0,19,19,1.0,100.0,What information do we consider in selecting the proper representative payee for you?,What information do we consider in selecting the proper representative payee for you?
+§408.621,124,39,0.315,23,8,0.333,21.8,What is our order of preference in selecting a representative payee for you?,What is our order of preference in selecting a representative
+§408.622,102,74,0.725,19,14,0.765,72.5,Who may not serve as a representative payee?,Who may not serve as a representative payee?
+§408.624,153,153,1.0,24,24,1.0,100.0,How do we investigate a representative payee applicant?,How do we investigate a representative payee applicant?
+§408.625,99,71,0.717,16,11,0.688,71.7,What information must a representative payee report to us?,What information must a representative payee report to us?
+§408.626,136,108,0.794,23,18,0.773,79.4,How do we investigate an appointed representative payee?,How do we investigate an appointed representative payee?
+§408.630,949,1036,1.092,147,164,0.877,91.6,How will we notify you when we decide you need a representative payee?,How will we notify you when
+§408.635,91,121,1.33,15,19,1.0,74.4,What are the responsibilities of your representative payee?,What are the responsibilities
+§408.640,108,108,1.0,18,18,1.0,100.0,How must your representative payee use your benefits?,How must your representative payee use your benefits?
+§408.641,117,117,1.0,21,21,1.0,100.0,Who is liable if your representative payee misuses your benefits?,Who is liable if your representative payee misuses your benefits?
+§408.645,144,144,1.0,25,25,1.0,100.0,What must your representative payee do with unused benefits?,What must your representative payee do with unused benefits?
+§408.650,118,148,1.254,22,26,0.955,79.7,When will we select a new representative payee for you?,When will we select a new
+§408.655,113,154,1.363,20,26,0.826,73.4,When will we stop making your payments to a representative payee?,When will we stop making
+§408.660,224,251,1.121,36,39,0.939,89.2,What happens to your accumulated funds when your representative payee changes?,What happens to your accufunds when your repmulated
+§408.665,1398,1724,1.233,231,288,0.745,81.0,How does your representative payee account for the use of your SVB payments?,How does your representative payee account for the use of
+§408.701,429,429,1.0,73,73,1.0,100.0,What is this subpart about?,What is this subpart about?
+§408.704,478,478,1.0,77,77,1.0,100.0,Who must make reports?,Who must make reports?
+§408.708,1977,1983,1.003,358,360,1.0,99.6,What events must you report to us?,What events must you report
+§408.710,253,253,1.0,50,50,1.0,100.0,What must your report include?,What must your report include?
+§408.712,501,553,1.104,98,109,0.851,90.6,How should you make your report?,How should you make your
+§408.714,606,808,1.333,110,148,0.699,74.8,When are reports due?,When are reports due?
+§408.801,131,137,1.046,20,20,0.941,88.3,What is this subpart about?,What is this subpart about?
+§408.802,1058,1071,1.012,170,172,1.0,98.6,When will we suspend your SVB payments?,When will we suspend your
+§408.803,1012,1077,1.064,171,182,0.987,94.0,What happens to your SVB payments if you fail to comply with our request for information?,What happens to your SVB
+§408.806,336,437,1.301,53,68,0.868,76.9,What happens to your SVB payments if you are no longer residing outside the United States?,What happens to your SVB
+§408.808,403,462,1.146,70,78,0.913,84.6,What happens to your SVB payments if you begin receiving additional benefit income?,What happens to your SVB
+§408.809,562,635,1.13,94,105,0.983,88.5,What happens to your SVB payments if you are removed (including deported) from the United States?,What happens to your SVB
+§408.810,2501,2706,1.082,444,479,0.926,92.4,"What happens to your SVB payments if you are fleeing to avoid criminal prosecution or custody or confinement after conviction, or because you violate a condition of probation or parole?",What happens to your SVB
+§408.812,468,604,1.291,79,102,0.943,77.5,What happens to your SVB payments if you are not a citizen or national of the United States and you begin residing in a Treasury-restricted country?,What happens to your SVB
+§408.814,935,960,1.027,154,158,1.0,97.4,Can you request termination of your SVB entitlement?,Can you request termination
+§408.816,133,151,1.135,23,27,0.818,88.1,When does SVB entitlement end due to death?,When does SVB entitlement
+§408.818,408,381,0.934,72,65,0.66,52.2,When does SVB entitlement terminate if your benefit payments have been in suspense for 12 consecutive months?,When does SVB entitlement
+§408.820,2591,2942,1.135,433,489,0.825,87.9,Will we send you a notice of intended action affecting your SVB payment status?,Will we send you a notice of
+§408.900,785,785,1.0,128,128,1.0,100.0,What is this subpart about?,What is this subpart about?
+§408.901,576,576,1.0,99,99,1.0,100.0,What is an underpayment?,What is an underpayment?
+§408.902,594,664,1.118,103,118,0.842,89.5,What is an overpayment?,What is an overpayment?
+§408.903,1593,1678,1.053,267,283,0.912,94.8,How do we determine the amount of an underpayment or overpayment?,How do we determine the
+§408.904,276,276,1.0,52,52,1.0,100.0,How will you receive an underpayment?,How will you receive an underpayment?
+§408.905,228,357,1.566,38,57,0.811,59.7,Will we withhold or adjust an underpayment to reduce an overpayment if that overpayment occurred in a different period?,Will we withhold or adjust an
+§408.910,1796,529,0.295,295,89,0.419,26.9,When will we waive recovery of an SVB overpayment?,When will we waive recovery
+§408.911,412,450,1.092,73,79,0.953,91.6,What happens when we waive recovery of an SVB overpayment?,What happens when we
+§408.912,2233,2329,1.043,359,377,0.925,95.9,When are you without fault regarding an overpayment?,When are you without fault
+§408.913,443,463,1.045,77,80,1.0,95.7,When would overpayment recovery defeat the purpose of the title VIII program?,When would overpayment recovery defeat the purpose of the
+§408.914,715,749,1.048,122,126,0.961,95.2,When would overpayment recovery be against equity and good conscience?,When would overpayment recovery be against equity and good
+§408.918,867,182,0.21,144,29,0.301,18.1,What notices will you receive if you are overpaid or underpaid?,What notices will you receive
+§408.920,397,467,1.176,73,87,0.852,85.0,When will we seek refund of an SVB overpayment?,When will we seek refund of
+§408.922,289,329,1.138,50,56,0.977,87.8,When will we adjust your SVB payments to recover an overpayment?,When will we adjust your
+§408.923,1678,1110,0.662,288,197,0.685,54.8,Is there a limit on the amount we will withhold from your SVB payments to recover an overpayment?,Is
+§408.930,885,908,1.026,151,156,0.909,97.0,Are title II and title XVI benefits subject to adjustment to recover title VIII overpayments?,Are title II and title XVI benefits subject to adjustment to recover title VIII overpayments?
+§408.931,1685,1578,0.936,288,271,0.884,84.3,How much will we withhold from your title II and title XVI benefits to recover a title VIII overpayment?,How much will we withhold
+§408.932,690,613,0.888,118,104,0.853,76.4,Will you receive notice of our intention to apply cross-program recovery?,Will you receive notice of our
+§408.933,1219,1262,1.035,213,222,0.9,96.6,When will we begin cross-program recovery from your current monthly benefits?,When will we begin crossprogram recovery from your current monthly benefits?
+§408.940,1073,1212,1.13,176,202,0.883,88.5,When will we refer an SVB overpayment to the Department of the Treasury for tax refund offset?,When will we refer an SVB
+§408.941,1350,1511,1.119,239,267,0.843,89.3,Will we notify you before we refer an SVB overpayment for tax refund offset?,Will we notify you before we
+§408.942,1528,1621,1.061,261,276,1.0,94.3,Will you have a chance to present evidence showing that the overpayment is not past due or is not legally enforceable?,Will you have a chance to
+§408.943,753,826,1.097,128,140,0.984,91.2,What happens after we make our determination on your request for review or your request for waiver?,What happens after we make
+§408.944,466,505,1.084,88,94,0.958,92.3,How can you review our records related to an SVB overpayment?,How can you review our
+§408.945,535,579,1.082,96,106,0.855,92.4,When will we suspend tax refund offset?,When will we suspend tax refund offset?
+§408.946,223,323,1.448,38,51,0.81,69.0,What happens if your tax refund is insufficient to cover the amount of your SVB overpayment?,What happens if your tax refund is insufficient to cover the
+§408.950,1479,1837,1.242,257,313,0.82,80.5,Will we accept a compromise settlement of an overpayment debt or suspend or terminate collection of an overpayment?,Will we accept a compromise
