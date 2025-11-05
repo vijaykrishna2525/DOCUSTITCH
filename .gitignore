@@ -3,3 +3,19 @@ __pycache__/
 artifacts/**
 !artifacts/sample/**
 mlruns/
+# Python
+
+env/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/Editor
+.DS_Store
+.vscode/
+
+# Env files
+.env
