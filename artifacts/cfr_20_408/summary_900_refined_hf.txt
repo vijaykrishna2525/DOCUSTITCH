@@ -1,0 +1,7 @@
+### Purpose/Scope:
+The purpose of this Part is to establish the criteria for waiving recovery of overpayments and to define the responsibilities of the Department of Homeland Security (DHS) in processing these claims. This Part applies to individuals who have received overpayments under the Social Security Administration (SSA) program. The goal is to ensure that individuals are not unfairly penalized for their contributions to the government's welfare programs.
+### Key Obligations:
+1. **Waiver of Overpayment**: Individuals seeking waiver of recovery of overpayments must demonstrate that they were without fault and that the overpayment was caused by an individual or representative payee's failure to comply with SSA regulations. They must provide evidence of their lack of knowledge or intent to misuse benefits.
+2. **Recovery Action**: Upon finding that an individual or representative payee is without fault, the Department of Labor (DOL) will determine whether recovery of the overpayment would defeat the purpose of the title VIII program. If so, the DOL will waive recovery of the overpayment.
+3. **Waiver Process**: Individuals requesting waiver of overpayment must submit a formal request to the DOL. Once approved, the DOL will issue a written notice of the appropriate amount to be refunded. The affected individual must then file a claim with the SSA to initiate the recovery process.
+4. **Claim Processing**: The DOL

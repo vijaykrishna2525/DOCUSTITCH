@@ -1,0 +1,96 @@
+version: 1
+notes: Mined terms for waypoint seeding (XML-first).
+global_terms:
+- accepted federal
+- accepted federal agencies
+- action taken
+- additional extension
+- agencies official
+- agency policies
+- applicability
+- authority
+- compliance
+- confidentiality
+- corrective action
+- definition
+- detainee result
+- detention facilities
+- determination state
+- dhs holding
+- dhs holding facilities
+- eligibility
+- evidence age
+- evidence age you
+- federal agencies official
+- grievance
+- hearing decision
+- holding facilities
+- immigration detention facilities
+- investigation
+- kinds evidence
+- material compliance
+- motor vehicle
+- payment
+- penalty
+- physical security
+- provided state
+- purpose
+- recordkeeping
+- reporting
+- reporting us
+- retaliation
+- scope
+- security features
+- serve representative
+- serve representative payee
+- supervision
+- training
+- use your
+- we stop
+- when detainee
+- when we select
+- your evidence
+doc_specific:
+  cfr_6_37:
+  - determination state
+  - physical security
+  - accepted federal agencies
+  - motor vehicle
+  - accepted federal
+  - federal agencies official
+  - agencies official
+  - eligibility
+  - security features
+  - additional extension
+  - material compliance
+  - provided state
+  cfr_6_115:
+  - dhs holding facilities
+  - dhs holding
+  - corrective action
+  - detainee result
+  - holding facilities
+  - immigration detention facilities
+  - agency policies
+  - action taken
+  - investigation
+  - when detainee
+  - detention facilities
+  - compliance
+  cfr_20_408:
+  - reporting us
+  - serve representative
+  - serve representative payee
+  - we stop
+  - use your
+  - reporting
+  - hearing decision
+  - your evidence
+  - when we select
+  - evidence age you
+  - kinds evidence
+  - evidence age
+patterns:
+  section_label: \u00A7{1,2}\s*\d{1,3}\.\d{1,4}(?:\([a-z0-9ivxl]+\))*
+  definitions_heading: (?i)\bdefinitions?\b
+  applicability_heading: (?i)\bapplicability\b
