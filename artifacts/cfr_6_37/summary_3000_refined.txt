@@ -1,0 +1,25 @@
+This part of the Code of Federal Regulations (CFR) outlines the requirements for states to issue REAL ID driver's licenses and identification cards that are acceptable for official purposes by federal agencies.
+### Purpose and Scope
+Subparts A through E of this part apply to states and U.S. territories that choose to issue driver's licenses and identification cards that can be accepted by federal agencies for official purposes (§37.1). States must comply with various security, documentation, and procedural requirements to ensure the integrity and security of these documents.
+### Definitions and Incorporation by Reference
+Key terms are defined, including "covered employees," "DMV," and "REAL ID Driver's License or Identification Card" (§37.3). Certain material is incorporated by reference into this part, available for inspection at the Transportation Security Administration (TSA) and the National Archives and Records Administration (NARA) (§37.4).
+### Security Requirements
+States must have a comprehensive security plan that addresses the physical security of facilities where driver's licenses and identification cards are produced, as well as the security of document materials and papers used in their production (§37.41). This plan must be submitted as part of the state's REAL ID certification (§37.55). States must ensure the physical security of DMV facilities and the security of document materials and papers (§37.43).
+### Background Checks for Covered Employees
+States must conduct background checks on covered employees, who are involved in the manufacture or production of REAL ID driver's licenses and identification cards, or who have the ability to affect the identity information on these cards (§37.45). Background checks are not required for employees who have been continuously employed by the DMV since May 11, 2006, or for those who have undergone substantially similar background checks since that date (§37.45).
+### Application and Document Verification
+Applicants for REAL ID driver's licenses or identification cards must provide valid documentary evidence of their identity and lawful status in the United States (§37.11). States must make reasonable efforts to ensure that applicants do not have more than one driver's license or identification card issued under a different identity (§37.13). States must retain copies of the application, declaration, and source documents, and protect personally identifiable information (§37.31).
+### Physical and Machine-Readable Features
+Driver's licenses and identification cards must have unique, non-SSN-based numbers and bear a DHS-approved security marking reflecting their compliance level (§37.17). The machine-readable portion of the card must use ISO/IEC 15438:2006(E) and include specific data elements (§37.19). States must ensure that the card design is secure and that any changes are documented (§37.17).
+### Temporary and Limited-Term Cards
+States may issue temporary or limited-term REAL ID driver's licenses or identification cards to individuals with temporary lawful status in the United States, provided they present valid documentary evidence of their status (§37.21).
+### Compliance and Certification
+States must file the required documentation for certification at least 90 days before the effective date of full compliance (§37.55). DHS will review the documentation, conduct audits as necessary, and make a preliminary determination within 45 days (§37.55). States must cooperate with DHS's compliance reviews at any time (§37.59). States must recertify compliance every three years on a rolling basis (§37.59).
+### Extensions and Non-Compliance
+States may request extensions of the compliance deadline, which DHS will review and approve if justified (§37.63). If a state fails to comply, DHS will determine that the state is not in compliance, and driver's licenses and identification cards issued by that state will not be acceptable for official purposes by federal agencies (§37.65).
+### Waivers for mDLs
+States may request a temporary waiver for mobile driver's licenses (mDLs) by filing a complete application with TSA, which will issue a certificate of waiver if the state meets the required criteria (§37.10). Federal agencies may accept mDLs from states with a valid certificate of waiver, provided they verify the state's compliance and use an mDL reader to validate the data (§37.8).
+### Database Requirements
+States must maintain a motor vehicle database that includes all data fields printed on driver's licenses and identification cards, individual serial numbers, SSNs, and motor vehicle histories (§37.33). This data must be protected in accordance with the state's security plan (§37.41).
+### Non-Compliant Cards
+Driver's licenses and identification cards issued by a state that is not in compliance with this part are not acceptable for official purposes by federal agencies (§37.65). However, cards issued by a state with an extension are acceptable until the end of the applicable enrollment period or until the state is found non-compliant (§37.65).
