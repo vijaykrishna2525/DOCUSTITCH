@@ -1,0 +1,22 @@
+This part of the Code of Federal Regulations (CFR) outlines the data collection, incident review, and audit requirements for preventing and responding to sexual abuse in immigration detention facilities.
+### Data Collection and Incident Reviews
+Each facility must conduct an annual review of all sexual abuse investigations and resulting incident reviews to assess and improve sexual abuse intervention, prevention, and response efforts (§115.87, §115.187). The Prevention of Sexual Assault (PSA) Coordinator shall work with relevant facility PSA Compliance Managers and DHS entities to share data on effective agency response methods to sexual abuse. Annually, the PSA Coordinator shall aggregate incident-based sexual abuse data, including the number of reported allegations and their outcomes, and prepare a report that includes a comparison with prior years' data and an assessment of the agency's progress (§115.87, §115.187).
+### Sexual Abuse Incident Reviews
+Facilities must conduct a sexual abuse incident review at the conclusion of every investigation of sexual abuse. If the allegation is not determined to be unfounded, a written report must be prepared within 30 days, recommending changes in policy or practice to better prevent, detect, or respond to sexual abuse. The facility must implement these recommendations or document reasons for not doing so (§115.86, §115.186).
+### Data Review for Corrective Action
+The agency shall review the collected and aggregated data to identify problem areas, take corrective action on an ongoing basis, and prepare an annual report of findings and corrective actions for the agency as a whole. The report must include a comparison with prior years' data and an assessment of the agency's progress in preventing, detecting, and responding to sexual abuse (§115.188).
+### Audits
+Audits of immigration detention facilities must be conducted by entities or individuals outside of the agency and DHS, with relevant audit experience (§115.201). The auditor shall review all relevant agency policies, procedures, reports, internal and external audits, and accreditations for each facility type. The auditor must interview a representative sample of detainees and staff, review available videotapes and other electronic data, and retain all documentation used in making audit determinations (§115.202).
+### Audit Contents and Findings
+Audit reports must state whether facility policies and procedures comply with relevant standards and describe the methodology, sampling sizes, and basis for the auditor's conclusions. If a facility does not meet a standard, the agency and the facility must develop a corrective action plan to achieve compliance. The auditor shall verify the implementation of the corrective action plan and issue a final determination after the 180-day corrective action period (§115.203, §115.204).
+### Audit Appeals
+A facility may appeal any specific audit finding it believes to be incorrect. The facility shall bear the costs of a re-audit, and the findings of the re-audit shall be considered final (§115.205).
+### Coverage and Definitions
+This subpart covers ICE immigration detention facilities and establishes minimum requirements for agencies and facilities. Standards in subpart A are not applicable to DHS holding facilities (§115.10, §115.110). Key definitions include:
+- **Family unit**: A group of detainees including one or more non-United States citizen juveniles accompanied by their parent(s) or legal guardian(s).
+- **Intersex**: Having sexual or reproductive anatomy or chromosomal patterns that do not fit typical definitions of male or female.
+- **Qualified medical practitioner**: A professional who has completed specialized training for treating sexual abuse victims.
+- **Security staff**: Employees primarily responsible for the supervision and control of detainees in various areas of the facility.
+- **Substantiated allegation**: An allegation that was investigated and determined to have occurred (§115.5, §115.6).
+### Zero Tolerance and PSA Coordinator
+The agency must have a written policy mandating zero tolerance toward all forms of sexual abuse and outlining its approach to preventing, detecting, and responding to such conduct. The agency must employ or designate an upper-level PSA Coordinator with the authority to develop, implement, and oversee compliance efforts in all holding facilities (§115.11).
