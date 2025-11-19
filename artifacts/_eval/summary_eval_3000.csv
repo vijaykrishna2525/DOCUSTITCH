@@ -1,0 +1,4 @@
+doc,status,path,words,mojibake,cue_count,cue_density,coverage,rougeL,embed_sim,redundancy
+cfr_6_37,OK,artifacts/cfr_6_37/summary_3000_refined_qwen72b.txt,746,no,27,3.62,76.0,0.239,0.625,0.091
+cfr_6_115,OK,artifacts/cfr_6_115/summary_3000_refined_qwen72b.txt,689,no,8,1.16,80.6,0.303,0.527,0.032
+cfr_20_408,OK,artifacts/cfr_20_408/summary_3000_refined_qwen72b.txt,767,no,19,2.48,69.0,0.236,0.474,0.034
