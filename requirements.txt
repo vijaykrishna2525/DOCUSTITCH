@@ -12,3 +12,14 @@ ruff
 mypy
 pytest
 requests
+beautifulsoup4
+PyMuPDF
+pdfminer.six
+pdfplumber
+rapidfuzz
+sentence-transformers
+torch
+transformers
+rouge-score
+legal-citation-parser
+
