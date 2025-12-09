@@ -65,17 +65,17 @@ The pipeline is applied to:
 
 # **Features / Highlights**
 
-- ✔ Multi-format parsing (XML + PDF)
-- ✔ Automated citation extraction from both formats
-- ✔ Explicit graph construction (normalized section references)
-- ✔ Implicit graph construction using transformer embeddings
-- ✔ Merged graph analysis for dependency scoring + centrality
-- ✔ Lexicon + term mining (TF-IDF across CFR corpus)
-- ✔ Waypoint identification (high-value regulatory sections)
-- ✔ MMR-based gist extraction
-- ✔ Graph-aware stitching under a token budget
-- ✔ Optional LLM refinement (Qwen 72B)
-- ✔ Evaluation metrics (coverage, ROUGE-L, redundancy, semantic similarity)
+-  Multi-format parsing (XML + PDF)
+-  Automated citation extraction from both formats
+-  Explicit graph construction (normalized section references)
+-  Implicit graph construction using transformer embeddings
+-  Merged graph analysis for dependency scoring + centrality
+-  Lexicon + term mining (TF-IDF across CFR corpus)
+-  Waypoint identification (high-value regulatory sections)
+-  MMR-based gist extraction
+-  Graph-aware stitching under a token budget
+-  Optional LLM refinement (Qwen 72B)
+-  Evaluation metrics (coverage, ROUGE-L, redundancy, semantic similarity)
 
 ---
 
